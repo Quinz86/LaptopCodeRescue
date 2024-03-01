@@ -1,0 +1,19 @@
+﻿  Board.cpp
+  Button.cpp
+  Game.cpp
+Game.cpp(30): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(105): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+Game.cpp(106): warning C4244: '*=': conversion from 'double' to 'int', possible loss of data
+Game.cpp(108): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(111): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(116): warning C4018: '>=': signed/unsigned mismatch
+Game.cpp(124): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Main.cpp
+Main.cpp(24): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Main.cpp(64): warning C4018: '<': signed/unsigned mismatch
+  Piece.cpp
+  Square.cpp
+  Generating code
+  All 334 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Chess.vcxproj -> c:\users\ender\documents\visual studio 2017\Projects\Chess\Release\Chess.exe

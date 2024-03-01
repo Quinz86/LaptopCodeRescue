@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\ender\documents\visual studio 2017\projects\quickpong\quickpong\main.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  QuickPong.vcxproj -> c:\users\ender\documents\visual studio 2017\Projects\QuickPong\Debug\QuickPong.exe
+  QuickPong.vcxproj -> c:\users\ender\documents\visual studio 2017\Projects\QuickPong\Debug\QuickPong.pdb (Partial PDB)

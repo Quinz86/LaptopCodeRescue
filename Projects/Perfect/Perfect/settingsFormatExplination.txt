@@ -1,0 +1,12 @@
+char:
+	0
+	0
+	0
+	0
+	0
+	0
+	0
+	0	Fullscreen
+
+char		Max Framerate (min 15,max 200)
+

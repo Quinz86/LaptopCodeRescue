@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\ender\documents\visual studio 2017\projects\snake\snake1\main.cpp(27): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ender\documents\visual studio 2017\projects\snake\snake1\main.cpp(54): warning C4244: 'initializing': conversion from 'double' to 'unsigned short', possible loss of data
+c:\users\ender\documents\visual studio 2017\projects\snake\snake1\main.cpp(106): warning C4244: '=': conversion from 'double' to 'unsigned short', possible loss of data
+  Snake1.vcxproj -> c:\users\ender\documents\visual studio 2017\Projects\Snake\Debug\Snake1.exe
+  Snake1.vcxproj -> c:\users\ender\documents\visual studio 2017\Projects\Snake\Debug\Snake1.pdb (Partial PDB)

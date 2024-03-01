@@ -1,0 +1,11 @@
+﻿  TextureManager.cpp
+c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\texturemanager.h(4): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Peg.cpp
+c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\peg.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Main.cpp
+c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\main.cpp(18): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Game.cpp
+c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\game.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Board.cpp
+c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\peg.h(3): fatal error C1083: Cannot open include file: 'SDL.h': No such file or directory
+  Generating Code...

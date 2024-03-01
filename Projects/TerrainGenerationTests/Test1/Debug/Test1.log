@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\ender\documents\visual studio 2017\projects\terraingenerationtests\test1\main.cpp(19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Test1.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\TerrainGenerationTests\Debug\Test1.exe
+  Test1.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\TerrainGenerationTests\Debug\Test1.pdb (Partial PDB)

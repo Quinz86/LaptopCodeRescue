@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\ender\documents\visual studio 2017\projects\defenders\defenders\main.cpp(13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Defenders.vcxproj -> c:\users\ender\documents\visual studio 2017\Projects\Defenders\Debug\Defenders.exe
+  Defenders.vcxproj -> c:\users\ender\documents\visual studio 2017\Projects\Defenders\Debug\Defenders.pdb (Partial PDB)

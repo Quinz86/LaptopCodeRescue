@@ -1,0 +1,14 @@
+﻿  Main.cpp
+c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\main.cpp(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\myserverwrapper.cpp(92): warning C4101: 'pEnd': unreferenced local variable
+  c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\myserverwrapper.cpp(84): note: while compiling class template member function 'int MyServerWrapper<Message>::myConnect(std::string,std::string)'
+  c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\myserverwrapper.cpp(153): note: see reference to function template instantiation 'int MyServerWrapper<Message>::myConnect(std::string,std::string)' being compiled
+  c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\myserverwrapper.cpp(150): note: while compiling class template member function 'void MyServerWrapper<Message>::threadded(void)'
+  c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\myserverwrapper.cpp(66): note: see reference to function template instantiation 'void MyServerWrapper<Message>::threadded(void)' being compiled
+  c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\myserverwrapper.cpp(7): note: while compiling class template member function 'MyServerWrapper<Message>::MyServerWrapper(void)'
+  c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\game.cpp(40): note: see reference to function template instantiation 'MyServerWrapper<Message>::MyServerWrapper(void)' being compiled
+  c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\game.cpp(40): note: see reference to class template instantiation 'MyServerWrapper<Message>' being compiled
+  Generating Code...
+  Twixt.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\Twixt\Debug\TwixtClient.exe
+  Twixt.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\Twixt\Debug\TwixtClient.pdb (Partial PDB)

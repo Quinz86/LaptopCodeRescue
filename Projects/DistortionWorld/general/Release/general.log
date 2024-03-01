@@ -1,0 +1,17 @@
+﻿  Background.cpp
+  Game.cpp
+Game.cpp(29): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(97): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(105): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(113): warning C4018: '<': signed/unsigned mismatch
+Game.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+Main.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Player.cpp
+  TextureManager.cpp
+  Thing.cpp
+  Tile.cpp
+  Generating code
+  All 508 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  general.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\general\Release\general.exe

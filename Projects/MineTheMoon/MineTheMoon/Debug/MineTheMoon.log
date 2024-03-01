@@ -1,0 +1,24 @@
+﻿  Planet.cpp
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\planet.h(10): error C2065: 'change': undeclared identifier
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\planet.h(10): error C2923: 'std::vector': 'change' is not a valid template type argument for parameter '_Ty'
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\planet.h(10): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\planet.h(10): error C3203: 'vector': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+  Main.cpp
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\planet.h(10): error C2065: 'change': undeclared identifier
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\planet.h(10): error C2923: 'std::vector': 'change' is not a valid template type argument for parameter '_Ty'
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\planet.h(10): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\planet.h(10): error C3203: 'vector': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\main.cpp(7): error C2512: 'Game': no appropriate default constructor available
+  c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\game.h(10): note: see declaration of 'Game'
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\main.cpp(18): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\planet.h(10): error C2065: 'change': undeclared identifier
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\planet.h(10): error C2923: 'std::vector': 'change' is not a valid template type argument for parameter '_Ty'
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\planet.h(10): error C3203: 'allocator': unspecialized class template can't be used as a template argument for template parameter '_Alloc', expected a real type
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\planet.h(10): error C3203: 'vector': unspecialized class template can't be used as a template argument for template parameter '_Ty', expected a real type
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\game.cpp(87): error C2059: syntax error: ';'
+c:\users\ender\documents\visual studio 2017\projects\minethemoon\minethemoon\game.cpp(88): error C2059: syntax error: ';'
+  Generating Code...
+  Compiling...
+  Living.cpp
+  Generating Code...

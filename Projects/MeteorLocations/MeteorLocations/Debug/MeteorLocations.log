@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\ender\documents\visual studio 2017\projects\meteorlocations\meteorlocations\main.cpp(20): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\ender\documents\visual studio 2017\projects\meteorlocations\meteorlocations\main.cpp(74): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\ender\documents\visual studio 2017\projects\meteorlocations\meteorlocations\main.cpp(75): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MeteorLocations.vcxproj -> c:\users\ender\documents\visual studio 2017\Projects\MeteorLocations\Debug\MeteorLocations.exe
+  MeteorLocations.vcxproj -> c:\users\ender\documents\visual studio 2017\Projects\MeteorLocations\Debug\MeteorLocations.pdb (Partial PDB)

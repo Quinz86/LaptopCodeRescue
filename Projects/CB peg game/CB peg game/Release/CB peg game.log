@@ -1,0 +1,9 @@
+﻿  Board.cpp
+Board.cpp(30): warning C4018: '<': signed/unsigned mismatch
+Board.cpp(76): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+Main.cpp(91): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  All 379 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  CB peg game.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\CB peg game\Release\CB peg game.exe

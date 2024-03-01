@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\ender\documents\visual studio 2017\projects\sockettestclient\sockettestclient\main.cpp(30): warning C4101: 'recvbuf': unreferenced local variable
+  SocketTestClient.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\SocketTestClient\Debug\SocketTestClient.exe
+  SocketTestClient.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\SocketTestClient\Debug\SocketTestClient.pdb (Partial PDB)

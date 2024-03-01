@@ -1,0 +1,9 @@
+﻿  Game.cpp
+  Main.cpp
+Main.cpp(110): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+Main.cpp(51): warning C4101: 'pEnd': unreferenced local variable
+  TextureManager.cpp
+  Generating code
+  All 420 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Connect4.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\Connect4\Release\Connect4Client.exe

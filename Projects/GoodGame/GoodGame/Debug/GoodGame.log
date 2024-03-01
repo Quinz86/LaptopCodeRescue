@@ -1,0 +1,12 @@
+﻿  Character.cpp
+  Generating Code...
+  Compiling...
+  Main.cpp
+c:\users\ender\documents\visual studio 2017\projects\goodgame\goodgame\main.cpp(17): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Game.cpp
+c:\users\ender\documents\visual studio 2017\projects\goodgame\goodgame\game.cpp(96): warning C4018: '<': signed/unsigned mismatch
+c:\users\ender\documents\visual studio 2017\projects\goodgame\goodgame\game.cpp(114): warning C4018: '<': signed/unsigned mismatch
+  Chunk.cpp
+  Generating Code...
+  GoodGame.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\GoodGame\Debug\GoodGame.exe
+  GoodGame.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\GoodGame\Debug\GoodGame.pdb (Partial PDB)

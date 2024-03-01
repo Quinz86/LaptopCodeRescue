@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\ender\documents\visual studio 2017\projects\connect4\connect4server\main.cpp(31): warning C4101: 'iSendResult': unreferenced local variable
+  Connect4Server.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\Connect4\Debug\Connect4Server.exe
+  Connect4Server.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\Connect4\Debug\Connect4Server.pdb (Partial PDB)

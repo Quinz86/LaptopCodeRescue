@@ -1,0 +1,18 @@
+﻿  Game.cpp
+c:\users\ender\documents\visual studio 2017\projects\general\general\game.cpp(29): warning C4018: '<': signed/unsigned mismatch
+c:\users\ender\documents\visual studio 2017\projects\general\general\game.cpp(97): warning C4018: '<': signed/unsigned mismatch
+c:\users\ender\documents\visual studio 2017\projects\general\general\game.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\ender\documents\visual studio 2017\projects\general\general\game.cpp(113): warning C4018: '<': signed/unsigned mismatch
+c:\users\ender\documents\visual studio 2017\projects\general\general\game.cpp(121): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Compiling...
+  Main.cpp
+c:\users\ender\documents\visual studio 2017\projects\general\general\main.cpp(26): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Tile.cpp
+  Thing.cpp
+  Player.cpp
+  Background.cpp
+  general.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\general\Debug\general.exe
+  general.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\general\Debug\general.pdb (Partial PDB)

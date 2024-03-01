@@ -1,0 +1,15 @@
+﻿  Game.cpp
+c:\users\ender\documents\visual studio 2017\projects\chess\chess\game.cpp(86): warning C4018: '<': signed/unsigned mismatch
+c:\users\ender\documents\visual studio 2017\projects\chess\chess\game.cpp(255): warning C4018: '<': signed/unsigned mismatch
+c:\users\ender\documents\visual studio 2017\projects\chess\chess\game.cpp(258): warning C4018: '<': signed/unsigned mismatch
+c:\users\ender\documents\visual studio 2017\projects\chess\chess\game.cpp(263): warning C4018: '>=': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Menu.cpp
+  MatchHandler.cpp
+  Main.cpp
+  InPlayMenu.cpp
+  Button.cpp
+  Board.cpp
+  Chess.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\Chess\Debug\Chess.exe
+  Chess.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\Chess\Debug\Chess.pdb (Partial PDB)

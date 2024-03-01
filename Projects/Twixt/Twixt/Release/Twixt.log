@@ -1,0 +1,22 @@
+﻿  Board.cpp
+  Game.cpp
+c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\MyServerWrapper.cpp(92): warning C4101: 'pEnd': unreferenced local variable
+  c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\MyServerWrapper.cpp(84): note: while compiling class template member function 'int MyServerWrapper<Message>::myConnect(std::string,std::string)'
+  c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\MyServerWrapper.cpp(153): note: see reference to function template instantiation 'int MyServerWrapper<Message>::myConnect(std::string,std::string)' being compiled
+  c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\MyServerWrapper.cpp(150): note: while compiling class template member function 'void MyServerWrapper<Message>::threadded(void)'
+  c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\MyServerWrapper.cpp(66): note: see reference to function template instantiation 'void MyServerWrapper<Message>::threadded(void)' being compiled
+  c:\users\ender\documents\visual studio 2017\projects\twixt\twixt\MyServerWrapper.cpp(7): note: while compiling class template member function 'MyServerWrapper<Message>::MyServerWrapper(void)'
+  Game.cpp(40): note: see reference to function template instantiation 'MyServerWrapper<Message>::MyServerWrapper(void)' being compiled
+  Game.cpp(40): note: see reference to class template instantiation 'MyServerWrapper<Message>' being compiled
+  Main.cpp
+Main.cpp(39): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  MyServerWrapper.cpp
+  Peg.cpp
+Peg.cpp(6): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+Peg.cpp(17): warning C4244: 'initializing': conversion from 'double' to 'unsigned char', possible loss of data
+  Generating code
+  155 of 548 functions (28.3%) were compiled, the rest were copied from previous compilation.
+    113 functions were new in current compilation
+    19 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Twixt.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\Twixt\Release\TwixtClient.exe

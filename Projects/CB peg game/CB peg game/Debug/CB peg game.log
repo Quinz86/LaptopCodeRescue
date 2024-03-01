@@ -1,0 +1,7 @@
+﻿  Board.cpp
+c:\users\ender\documents\visual studio 2017\projects\cb peg game\cb peg game\board.cpp(30): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Main.cpp
+  CB peg game.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\CB peg game\Debug\CB peg game.exe
+  CB peg game.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\CB peg game\Debug\CB peg game.pdb (Partial PDB)

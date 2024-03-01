@@ -1,0 +1,12 @@
+﻿  Game.cpp
+c:\users\ender\documents\visual studio 2017\projects\statsdicegame\statsdicegame\game.cpp(87): warning C4018: '<': signed/unsigned mismatch
+c:\users\ender\documents\visual studio 2017\projects\statsdicegame\statsdicegame\game.cpp(105): warning C4018: '<': signed/unsigned mismatch
+c:\users\ender\documents\visual studio 2017\projects\statsdicegame\statsdicegame\game.cpp(119): warning C4018: '<': signed/unsigned mismatch
+c:\users\ender\documents\visual studio 2017\projects\statsdicegame\statsdicegame\game.cpp(132): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+c:\users\ender\documents\visual studio 2017\projects\statsdicegame\statsdicegame\game.cpp(136): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\ender\documents\visual studio 2017\projects\statsdicegame\statsdicegame\game.cpp(155): warning C4018: '<': signed/unsigned mismatch
+c:\users\ender\documents\visual studio 2017\projects\statsdicegame\statsdicegame\game.cpp(161): warning C4018: '<': signed/unsigned mismatch
+c:\users\ender\documents\visual studio 2017\projects\statsdicegame\statsdicegame\game.cpp(174): warning C4018: '<': signed/unsigned mismatch
+c:\users\ender\documents\visual studio 2017\projects\statsdicegame\statsdicegame\game.cpp(180): warning C4018: '<': signed/unsigned mismatch
+  StatsDiceGame.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\StatsDiceGame\Debug\StatsDiceGame.exe
+  StatsDiceGame.vcxproj -> C:\Users\ender\Documents\Visual Studio 2017\Projects\StatsDiceGame\Debug\StatsDiceGame.pdb (Partial PDB)
